@@ -1,0 +1,26 @@
+{
+  "figma_file_key": "pYcKD6oYVNnHd4vEG2hhLW",
+  "total_frames": 2,
+  "frames": [
+    {
+      "name": "Desktop Login",
+      "node_id": "401:3987",
+      "gt_image": "Desktop-Login.png",
+      "target_route": "/",
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "Mobile Login",
+      "node_id": "401:3762",
+      "gt_image": "Mobile-Login.png",
+      "target_route": "/",
+      "dimensions": {
+        "width": 375,
+        "height": 812
+      }
+    }
+  ]
+}
