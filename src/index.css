@@ -1,3 +1,6 @@
+/* Import Google Fonts - must be first */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Roboto:wght@400;500;700&display=swap');
+
 @import "tailwindcss";
 
 /* Design tokens from Figma */
@@ -22,9 +25,6 @@
   --color-system-orange: #FF9500;
   --color-system-green: #26A212;
 }
-
-/* Import Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Roboto:wght@400;500;700&display=swap');
 
 body {
   font-family: var(--font-roboto);
